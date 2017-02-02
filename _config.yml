@@ -19,9 +19,9 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: vstsang@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address:  # Full email address, e.g. "sam@example.com"
   behance:
-  bitbucket: "vstsang"
+  bitbucket: 
   dribbble: 
   facebook: 
   flickr:
